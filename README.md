@@ -42,7 +42,12 @@ Here is a short list of some search engines for related work search:
 Some engines will only provide pdf versions of papers if you are within the university network.
 
 
-TODOS
------
-* add research seminar template
-* add beamer template
+Beamer Presentations
+--------------------
+For presentations please checkout the `presentation` folder.
+
+
+Research Seminar
+----------------
+For research seminar we use the IEEEtran template (https://www.ieee.org/conferences/publishing/templates.html).
+Check the `research_seminar` subfolder, where mostly everything is already prepared.

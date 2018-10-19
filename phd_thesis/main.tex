@@ -69,9 +69,13 @@
     % include lists, figures, biblio, tables
     \clearpage
     \sloppy
-    \printbibliography
+    \printbibliography[heading=bibintoc]
     \listoffigures
     \listoftables
+
+    \appendix
+    \include{content/99_appendix}
+    \cleardoublepage
 
     % add declaration
     \declaration
